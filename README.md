@@ -44,16 +44,20 @@ As the founder of **MOVA Tech** — a B2B AI & Product Studio based in Seoul —
 ## 🚀 Featured Projects
 
 ### musubee — Japanese Market Mobile App
+
 > Full-cycle iOS/Android app built with Flutter + Supabase + Firebase
-> Solo-developed from planning to App Store launch
+> Co-developed with a Japanese partner company, from planning to App Store launch
 
 ### MOVA Tech — Company Website
+
 > Trilingual (KR/JP/EN) B2B studio website
 > Built with Next.js + Tailwind CSS, deployed on Cloudflare
 > 🔗 [movatech.org](https://www.movatech.org)
 
-### Resort Admin Dashboard
-> Full-stack web app with staff management, reservations, and role-based access control
+### [LOHAS Resorts](https://www.lohas-resorts.com/welcome/ja/resorts) — Resort Admin Dashboard
+
+> Co-developed with a Japanese company
+> Responsible for backend, logic design, and role-based access control for the admin dashboard
 
 ---
 
@@ -92,19 +96,57 @@ AIを活用した開発で、通常の3〜5倍のスピードで本番品質のW
 
 ---
 
+### 🛠 技術スタック
+
+**フロントエンド**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**バックエンド**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**クラウド & インフラ**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**ツール**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+
+---
+
 ### 🚀 主なプロジェクト
 
 #### musubee — 日本市場向けモバイルアプリ
+
 > Flutter + Supabase + Firebase で構築したiOS/Androidアプリ
-> 企画からApp Storeリリースまで一人で開発
+> 日本企業との共同開発、企画からApp Storeリリースまで担当
 
 #### MOVA Tech — コーポレートサイト
+
 > 3ヶ国語対応（KR/JP/EN）のB2Bスタジオサイト
 > Next.js + Tailwind CSSで構築、Cloudflareにデプロイ
 > 🔗 [movatech.org](https://www.movatech.org/ja)
 
-#### リゾート管理ダッシュボード
-> スタッフ管理・予約管理・権限設定を含むフルスタックWebアプリ
+#### [LOHAS Resorts](https://www.lohas-resorts.com/welcome/ja/resorts) — リゾート管理ダッシュボード
+
+> 日本企業との共同開発
+> 管理画面のバックエンド、ロジック設計、権限管理を担当
 
 ---
 
@@ -142,19 +184,57 @@ AI 기반 개발로 일반 대비 3~5배 빠른 속도로 웹·모바일 애플�
 
 ---
 
+### 🛠 기술 스택
+
+**프론트엔드**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**백엔드**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**클라우드 & 인프라**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**도구**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+
+---
+
 ### 🚀 주요 프로젝트
 
 #### musubee — 일본 시장 모바일 앱
+
 > Flutter + Supabase + Firebase 로 구축한 iOS/Android 앱
-> 기획부터 앱스토어 출시까지 1인 개발
+> 일본 기업과 공동 개발, 기획부터 앱스토어 출시까지 담당
 
 #### MOVA Tech — 회사 홈페이지
+
 > 3개 국어 (KR/JP/EN) B2B 스튜디오 웹사이트
 > Next.js + Tailwind CSS 로 구축, Cloudflare 배포
 > 🔗 [movatech.org](https://www.movatech.org/ko)
 
-#### 리조트 관리자 대시보드
-> 직원 관리, 예약 관리, 권한 설정이 포함된 풀스택 웹 애플리케이션
+#### [LOHAS Resorts](https://www.lohas-resorts.com/welcome/ja/resorts) — 리조트 관리자 대시보드
+
+> 일본 기업과 공동 개발
+> 관리자 대시보드의 백엔드, 로직 설계, 권한 관리 담당
 
 ---
 
@@ -182,4 +262,4 @@ AI 기반 개발로 일반 대비 3~5배 빠른 속도로 웹·모바일 애플�
 
 ---
 
-*"Momentum of Value" — 가치를 움직이는 기술을 만듭니다.*
+_"Momentum of Value" — 가치를 움직이는 기술을 만듭니다._
